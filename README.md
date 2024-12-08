@@ -77,7 +77,7 @@ Publish the website in the given URL.
 ```
 ## HOMEPAGE:
 
-![alt text](<EX 05.jpg>)
+![alt text](<Calculator/static/EX 05.jpg>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
